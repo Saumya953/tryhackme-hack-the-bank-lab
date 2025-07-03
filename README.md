@@ -12,7 +12,7 @@ Hands-on offensive security lab completed on TryHackMe.
 - Understand real-world web vulnerabilities
 
  📸 Screenshots
-See `/screenshots/` folder
+See `/screenshots/` folder TRYHACKME_Bankhacked.png
 
 🛡️ Learnings
 - Importance of strong auth
