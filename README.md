@@ -11,10 +11,6 @@ Hands-on offensive security lab completed on TryHackMe.
 - Exploit weak authentication
 - Understand real-world web vulnerabilities
 
- 📸 Screenshots
-![Hack the Bank Screenshot](https://github.com/yourusername/yourrepo/blob/main/screenshots/TRYHACKME_Bankhacked.png?raw=true)
-
-
 🛡️ Learnings
 - Importance of strong auth
 - Real-world impact of weak web security
